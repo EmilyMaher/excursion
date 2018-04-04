@@ -1,10 +1,20 @@
 .header{
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 .background{
   background-color: black;
+  text-align: center;
+  font-family: Verdana
+}
+
+.cta{
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.para{
+  font-size: 21px;
+  color: gray;
 }
